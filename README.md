@@ -6,3 +6,5 @@ Install Python 3.8 and Pytorch 2.4.1
 Use is possible on a small dataset (100 images could be enough if the images are similar).
 
 ![Image after 100 epochs on Nico Nico Nii video](sample_epoch_100.png)
+
+Can be trained on a single CPU, training on 100 images in minutes!
