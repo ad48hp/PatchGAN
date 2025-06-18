@@ -170,4 +170,4 @@ def train(image_dir):
            save_image(samples * 0.5 + 0.5, os.path.join(save_dir, f"sample_epoch_{epoch+1}.png"), nrow=4)
 
 if __name__ == "__main__":
-    train("C:/Users/david/Downloads/framesmedium/1")
+    train("samples")
